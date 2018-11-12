@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.6.27)  12 NOV 2018 00:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.6.27)  12 NOV 2018 19:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**PoS_paper.tex
-(./PoS_paper.tex
+**PoS_paper_2pages.tex
+(./PoS_paper_2pages.tex
 LaTeX2e <2017-04-15>
 Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
 (./PoS.cls
@@ -188,8 +188,9 @@ LaTeX Font Info:    Try loading font information for T1+ptm on input line 10.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
-) (./PoS_paper.aux)
-\openout1 = `PoS_paper.aux'.
+)
+(./PoS_paper_2pages.aux)
+\openout1 = `PoS_paper_2pages.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
 LaTeX Font Info:    ... okay on input line 31.
@@ -203,7 +204,8 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
 LaTeX Font Info:    ... okay on input line 31.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
 LaTeX Font Info:    ... okay on input line 31.
- (/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+
+(/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count98
 \scratchdimen=\dimen116
@@ -337,7 +339,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <7> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 31.
 
-./PoS_paper.tex:31: LaTeX Error: File `PoSlogo' not found.
+./PoS_paper_2pages.tex:31: LaTeX Error: File `PoSlogo' not found.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -351,8 +353,6 @@ LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <6> not available
 [0
 
 {/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 33.
 Package epstopdf Info: Source file: <A_Cluster_mass_mmdt_20tev_eff_1_central_fi
 x_at_Median_bin_ww_qq_log_no_UOF.eps>
 (epstopdf)                    date: 2018-09-23 09:04:35
@@ -364,7 +364,7 @@ x_at_Median_bin_ww_qq_log_no_UOF-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=A_Cluster_mass_mmdt_20tev_
 eff_1_central_fix_at_Median_bin_ww_qq_log_no_UOF-eps-converted-to.pdf A_Cluster
 _mass_mmdt_20tev_eff_1_central_fix_at_Median_bin_ww_qq_log_no_UOF.eps>
-(epstopdf)             \includegraphics on input line 45.
+(epstopdf)             \includegraphics on input line 52.
 Package epstopdf Info: Output file is already uptodate.
 
 <A_Cluster_mass_mmdt_20tev_eff_1_central_fix_at_Median_bin_ww_qq_log_no_UOF-eps
@@ -375,7 +375,7 @@ F-eps-converted-to.pdf Graphic file (type pdf)
 <use A_Cluster_mass_mmdt_20tev_eff_1_central_fix_at_Median_bin_ww_qq_log_no_UOF
 -eps-converted-to.pdf>
 Package pdftex.def Info: A_Cluster_mass_mmdt_20tev_eff_1_central_fix_at_Median_
-bin_ww_qq_log_no_UOF-eps-converted-to.pdf used on input line 45.
+bin_ww_qq_log_no_UOF-eps-converted-to.pdf used on input line 52.
 (pdftex.def)             Requested size: 172.07993pt x 119.57347pt.
 Package epstopdf Info: Source file: <Rawhit_05GeV_tau21_20tev_eff_1_New2_after_
 cut_25bins_no_UOF_new_75pa.eps>
@@ -388,7 +388,7 @@ cut_25bins_no_UOF_new_75pa-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=Rawhit_05GeV_tau21_20tev_e
 ff_1_New2_after_cut_25bins_no_UOF_new_75pa-eps-converted-to.pdf Rawhit_05GeV_ta
 u21_20tev_eff_1_New2_after_cut_25bins_no_UOF_new_75pa.eps>
-(epstopdf)             \includegraphics on input line 48.
+(epstopdf)             \includegraphics on input line 55.
 Package epstopdf Info: Output file is already uptodate.
 
 <Rawhit_05GeV_tau21_20tev_eff_1_New2_after_cut_25bins_no_UOF_new_75pa-eps-conve
@@ -399,37 +399,58 @@ converted-to.pdf Graphic file (type pdf)
 <use Rawhit_05GeV_tau21_20tev_eff_1_New2_after_cut_25bins_no_UOF_new_75pa-eps-c
 onverted-to.pdf>
 Package pdftex.def Info: Rawhit_05GeV_tau21_20tev_eff_1_New2_after_cut_25bins_n
-o_UOF_new_75pa-eps-converted-to.pdf used on input line 48.
+o_UOF_new_75pa-eps-converted-to.pdf used on input line 55.
 (pdftex.def)             Requested size: 172.07993pt x 119.57347pt.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 50.
- [1 <./A_Cluster_mass_mmdt_20tev_eff_1_central_fix_at_Median_bin_ww_qq_log_no_U
-OF-eps-converted-to.pdf> <./Rawhit_05GeV_tau21_20tev_eff_1_New2_after_cut_25bin
-s_no_UOF_new_75pa-eps-converted-to.pdf>] [2] (./PoS_paper.aux) ) 
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 57.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 61.
+
+
+./PoS_paper_2pages.tex:85: LaTeX Error: \begin{thebibliography} on input line 6
+1 ended by \end{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.85 \end{document}
+                   
+? 
+[1 <./A_Cluster_mass_mmdt_20tev_eff_1_central_fix_at_Median_bin_ww_qq_log_no_UO
+F-eps-converted-to.pdf> <./Rawhit_05GeV_tau21_20tev_eff_1_New2_after_cut_25bins
+_no_UOF_new_75pa-eps-converted-to.pdf>] (./PoS_paper_2pages.aux) )
+(\end occurred inside a group at level 2)
+
+### simple group (level 2) entered at line 61 ({)
+### semi simple group (level 1) entered at line 61 (\begingroup)
+### bottom level 
 Here is how much of TeX's memory you used:
  2935 strings out of 492995
- 38964 string characters out of 6132704
- 98955 words of memory out of 5000000
- 6371 multiletter control sequences out of 15000+600000
- 85384 words of font info for 148 fonts, out of 8000000 for 9000
+ 39031 string characters out of 6132704
+ 99562 words of memory out of 5000000
+ 6370 multiletter control sequences out of 15000+600000
+ 87214 words of font info for 152 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,15n,29p,729b,307s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/tex
-live/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2017/texmf
--dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2017/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2017/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2017/texmf-dist/fon
-ts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1
-/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/sy
-mbol/usyr.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/times/utmb8a.
-pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/
-local/texlive/2017/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on PoS_paper.pdf (3 pages, 125751 bytes).
+ 39i,15n,29p,738b,307s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc
+}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
+</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
+usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
+sr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr
+/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/l
+ocal/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/loc
+al/texlive/2017/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texli
+ve/2017/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2017
+/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/local/texlive/2017/texmf-dist
+/fonts/type1/urw/symbol/usyr.pfb></usr/local/texlive/2017/texmf-dist/fonts/type
+1/urw/times/utmb8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/time
+s/utmr8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/times/utmri8a.
+pfb>
+Output written on PoS_paper_2pages.pdf (2 pages, 134370 bytes).
 PDF statistics:
- 116 PDF objects out of 1000 (max. 8388607)
- 90 compressed objects within 1 object stream
- 10 named destinations out of 1000 (max. 500000)
+ 118 PDF objects out of 1000 (max. 8388607)
+ 91 compressed objects within 1 object stream
+ 7 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
