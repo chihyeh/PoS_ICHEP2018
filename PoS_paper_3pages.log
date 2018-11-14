@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.6.27)  12 NOV 2018 19:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.6.27)  14 NOV 2018 17:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -184,7 +184,7 @@ Package: subfigure 2002/03/15 v2.1.5 subfigure package
 \subfig@top=\skip52
 \subfig@bottom=\skip53
 )
-LaTeX Font Info:    Try loading font information for T1+ptm on input line 10.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 11.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
@@ -192,18 +192,18 @@ File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 (./PoS_paper_3pages.aux)
 \openout1 = `PoS_paper_3pages.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
 
 (/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -264,94 +264,85 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \big@size=\dimen118
-LaTeX Font Info:    Try loading font information for T1+phv on input line 36.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 37.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 )
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 36.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 37.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 36.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 37.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 36.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 37.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 36.
-LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 36
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 37.
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 37
 .
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 36
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 37
 .
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 36
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 37
 .
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 36
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 37
 .
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 36.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 37.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 36.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 37.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 36.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 37.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 36.
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 36.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 37.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 37.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <8> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 36.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 37.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 36.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 37.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 36.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 37.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 36.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 37.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 36.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 37.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 36.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 37.
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <7> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 36.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 37.
 
-
-./PoS_paper_3pages.tex:36: LaTeX Error: File `PoSlogo' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.36 \begin{document}
-                     
-? 
+<PoSlogo.pdf, id=8, 430.60875pt x 45.16875pt>
+File: PoSlogo.pdf Graphic file (type pdf)
+ <use PoSlogo.pdf>
+Package pdftex.def Info: PoSlogo.pdf used on input line 37.
+(pdftex.def)             Requested size: 430.60768pt x 45.16862pt.
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <6> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 36.
-[0
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 37.
+ [0
 
-{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-./PoS_paper_3pages.tex:50: Undefined control sequence.
-l.50 \GEANTfour
-               \ (version 10.3)~\cite{Allison:2016} simulation of calorimete...
-
-? 
+{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./PoSlo
+go.pdf>]
 Package epstopdf Info: Source file: <A_Cluster_mass_mmdt_20tev_eff_1_central_fi
 x_at_Median_bin_ww_qq_log_no_UOF.eps>
 (epstopdf)                    date: 2018-09-23 09:04:35
@@ -363,18 +354,18 @@ x_at_Median_bin_ww_qq_log_no_UOF-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=A_Cluster_mass_mmdt_20tev_
 eff_1_central_fix_at_Median_bin_ww_qq_log_no_UOF-eps-converted-to.pdf A_Cluster
 _mass_mmdt_20tev_eff_1_central_fix_at_Median_bin_ww_qq_log_no_UOF.eps>
-(epstopdf)             \includegraphics on input line 84.
+(epstopdf)             \includegraphics on input line 81.
 Package epstopdf Info: Output file is already uptodate.
 
 <A_Cluster_mass_mmdt_20tev_eff_1_central_fix_at_Median_bin_ww_qq_log_no_UOF-eps
--converted-to.pdf, id=34, 569.12625pt x 395.4775pt>
+-converted-to.pdf, id=40, 569.12625pt x 395.4775pt>
 File: A_Cluster_mass_mmdt_20tev_eff_1_central_fix_at_Median_bin_ww_qq_log_no_UO
 F-eps-converted-to.pdf Graphic file (type pdf)
 
 <use A_Cluster_mass_mmdt_20tev_eff_1_central_fix_at_Median_bin_ww_qq_log_no_UOF
 -eps-converted-to.pdf>
 Package pdftex.def Info: A_Cluster_mass_mmdt_20tev_eff_1_central_fix_at_Median_
-bin_ww_qq_log_no_UOF-eps-converted-to.pdf used on input line 84.
+bin_ww_qq_log_no_UOF-eps-converted-to.pdf used on input line 81.
 (pdftex.def)             Requested size: 172.07993pt x 119.57347pt.
 Package epstopdf Info: Source file: <Rawhit_05GeV_tau21_20tev_eff_1_New2_after_
 cut_25bins_no_UOF_new_75pa.eps>
@@ -387,35 +378,35 @@ cut_25bins_no_UOF_new_75pa-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=Rawhit_05GeV_tau21_20tev_e
 ff_1_New2_after_cut_25bins_no_UOF_new_75pa-eps-converted-to.pdf Rawhit_05GeV_ta
 u21_20tev_eff_1_New2_after_cut_25bins_no_UOF_new_75pa.eps>
-(epstopdf)             \includegraphics on input line 87.
+(epstopdf)             \includegraphics on input line 84.
 Package epstopdf Info: Output file is already uptodate.
 
 <Rawhit_05GeV_tau21_20tev_eff_1_New2_after_cut_25bins_no_UOF_new_75pa-eps-conve
-rted-to.pdf, id=35, 569.12625pt x 395.4775pt>
+rted-to.pdf, id=41, 569.12625pt x 395.4775pt>
 File: Rawhit_05GeV_tau21_20tev_eff_1_New2_after_cut_25bins_no_UOF_new_75pa-eps-
 converted-to.pdf Graphic file (type pdf)
 
 <use Rawhit_05GeV_tau21_20tev_eff_1_New2_after_cut_25bins_no_UOF_new_75pa-eps-c
 onverted-to.pdf>
 Package pdftex.def Info: Rawhit_05GeV_tau21_20tev_eff_1_New2_after_cut_25bins_n
-o_UOF_new_75pa-eps-converted-to.pdf used on input line 87.
+o_UOF_new_75pa-eps-converted-to.pdf used on input line 84.
 (pdftex.def)             Requested size: 172.07993pt x 119.57347pt.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 89.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 86.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 93.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 90.
  [1] [2 <./A_Cluster_mass_mmdt_20tev_eff_1_central_fix_at_Median_bin_ww_qq_log_
 no_UOF-eps-converted-to.pdf> <./Rawhit_05GeV_tau21_20tev_eff_1_New2_after_cut_2
 5bins_no_UOF_new_75pa-eps-converted-to.pdf>]
 (./PoS_paper_3pages.aux) ) 
 Here is how much of TeX's memory you used:
- 2948 strings out of 492995
- 39156 string characters out of 6132704
- 101590 words of memory out of 5000000
- 6376 multiletter control sequences out of 15000+600000
- 87214 words of font info for 152 fonts, out of 8000000 for 9000
+ 2956 strings out of 492995
+ 39274 string characters out of 6132704
+ 101779 words of memory out of 5000000
+ 6383 multiletter control sequences out of 15000+600000
+ 92430 words of font info for 154 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,15n,29p,717b,307s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 39i,15n,28p,730b,311s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/b
 ase/8r.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mmi10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cm
@@ -430,10 +421,10 @@ texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/local/texlive/2017/texmf-dist/
 fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type
 1/urw/times/utmr8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/time
 s/utmri8a.pfb>
-Output written on PoS_paper_3pages.pdf (3 pages, 139669 bytes).
+Output written on PoS_paper_3pages.pdf (3 pages, 157369 bytes).
 PDF statistics:
- 137 PDF objects out of 1000 (max. 8388607)
- 108 compressed objects within 2 object streams
- 14 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 144 PDF objects out of 1000 (max. 8388607)
+ 112 compressed objects within 2 object streams
+ 15 named destinations out of 1000 (max. 500000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 

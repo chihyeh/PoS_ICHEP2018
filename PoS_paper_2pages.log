@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.6.27)  12 NOV 2018 19:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.6.27)  13 NOV 2018 11:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -338,21 +338,17 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 31.
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <7> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 31.
-
-./PoS_paper_2pages.tex:31: LaTeX Error: File `PoSlogo' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.31 \begin{document}
-                     
-? 
+<PoSlogo.pdf, id=8, 430.60875pt x 45.16875pt>
+File: PoSlogo.pdf Graphic file (type pdf)
+ <use PoSlogo.pdf>
+Package pdftex.def Info: PoSlogo.pdf used on input line 31.
+(pdftex.def)             Requested size: 430.60768pt x 45.16862pt.
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <6> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 31.
-[0
+ [0
 
-{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./PoSlo
+go.pdf>]
 Package epstopdf Info: Source file: <A_Cluster_mass_mmdt_20tev_eff_1_central_fi
 x_at_Median_bin_ww_qq_log_no_UOF.eps>
 (epstopdf)                    date: 2018-09-23 09:04:35
@@ -368,7 +364,7 @@ _mass_mmdt_20tev_eff_1_central_fix_at_Median_bin_ww_qq_log_no_UOF.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 <A_Cluster_mass_mmdt_20tev_eff_1_central_fix_at_Median_bin_ww_qq_log_no_UOF-eps
--converted-to.pdf, id=27, 569.12625pt x 395.4775pt>
+-converted-to.pdf, id=32, 569.12625pt x 395.4775pt>
 File: A_Cluster_mass_mmdt_20tev_eff_1_central_fix_at_Median_bin_ww_qq_log_no_UO
 F-eps-converted-to.pdf Graphic file (type pdf)
 
@@ -392,7 +388,7 @@ u21_20tev_eff_1_New2_after_cut_25bins_no_UOF_new_75pa.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 <Rawhit_05GeV_tau21_20tev_eff_1_New2_after_cut_25bins_no_UOF_new_75pa-eps-conve
-rted-to.pdf, id=28, 569.12625pt x 395.4775pt>
+rted-to.pdf, id=33, 569.12625pt x 395.4775pt>
 File: Rawhit_05GeV_tau21_20tev_eff_1_New2_after_cut_25bins_no_UOF_new_75pa-eps-
 converted-to.pdf Graphic file (type pdf)
 
@@ -426,13 +422,13 @@ _no_UOF_new_75pa-eps-converted-to.pdf>] (./PoS_paper_2pages.aux) )
 ### semi simple group (level 1) entered at line 61 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 2935 strings out of 492995
- 39031 string characters out of 6132704
- 99562 words of memory out of 5000000
- 6370 multiletter control sequences out of 15000+600000
+ 2937 strings out of 492995
+ 39089 string characters out of 6132704
+ 99762 words of memory out of 5000000
+ 6374 multiletter control sequences out of 15000+600000
  87214 words of font info for 152 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,15n,29p,738b,307s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 39i,15n,28p,738b,311s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc
 }</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
 </usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
@@ -447,10 +443,10 @@ ve/2017/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2017
 1/urw/times/utmb8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/time
 s/utmr8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/times/utmri8a.
 pfb>
-Output written on PoS_paper_2pages.pdf (2 pages, 134370 bytes).
+Output written on PoS_paper_2pages.pdf (2 pages, 151990 bytes).
 PDF statistics:
- 118 PDF objects out of 1000 (max. 8388607)
- 91 compressed objects within 1 object stream
+ 123 PDF objects out of 1000 (max. 8388607)
+ 93 compressed objects within 1 object stream
  7 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 

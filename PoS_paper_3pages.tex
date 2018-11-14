@@ -4,12 +4,13 @@
 % data according to the instructions in PoSauthmanual.pdf
 \documentclass[a4paper]{PoS}
 \usepackage{subfigure}
+\newcommand{\GEANTfour} {\textsc{geant4}}
 
 \title{Study of Jet Substructure Variables with the SiFCC Detector at 100 TeV}
 
 \ShortTitle{Study of Jet Substructure Variables with the SiFCC Detector at 100 TeV}
 
-\author{\speaker{Chih-Hsiang Yeh}$^a$,S.V. Chekanov$^b$ ,A.V. Kotwal$^{c}$,S. Sen$^{c}$,N.V. Tran$^{b}$,J. Proudfoot$^{b}$,S.-S Yu$^{a}$\\     
+\author{\speaker{C.-H Yeh}$^a$,S.V. Chekanov$^b$ ,A.V. Kotwal$^{c}$,J. Proudfoot$^{b}$,S. Sen$^{c}$,N.V. ~Tran$^{d}$,S.-S Yu$^{a}$\\     
      \llap{$^a$}Department of Physics, National Central University\\
      Chung-Li, Taoyuan City 32001, Taiwan\\
      \llap{$^b$}HEP Division, Argonne National Laboratory\\
@@ -40,31 +41,27 @@ challenges for detector technologies.
 Future experiments, such as high-energy LHC (HE-LHC),
 future circular $pp$ colliders of the European initiative, FCC-hh~\cite{Benedikt:2206376} and the Chinese initiative, SppC~\cite{Tang:2015qga} will be required to measure high-momentum bosons ($W$, $Z$, $H$) and top quarks with strongly
 collimated decay products that form jets.  
-Therefore, reconstructions of jet substructure  variables for collimated jets with transverse 
+Therefore, reconstruction of jet substructure  variables for collimated jets with transverse 
 momentum above 10 TeV
-require an appropriate calorimeter design.  In particular, the transverse cell size of the hadronic 
-calorimeters is one of the major factors that can significantly impact 
+requires an appropriate calorimeter design.  In particular, the transverse cell size of the hadronic 
+calorimeters ( HCALs ) is one of the major factors that can significantly impact 
 the reconstruction of boosted particles.
 
-To study the transverse segmentuion of hadronic calorimeters,
-\GEANTfour\ (version 10.3)~\cite{Allison:2016} simulation of calorimeter response together
-with
-the full reconstruction of calorimeter clusters formed by the Pandora algorithm \cite{Marshall:2013}.
-The FCC-like detector geometry used in this study is described in  \cite{Chekanov:2016ppq},
+To study the transverse segmentuion of HCALs,
+\GEANTfour\ (version 10.3) ~\cite{Allison:2016} simulation of calorimeter response are used together
+with the full reconstruction of calorimeter clusters formed by the Pandora algorithm~\cite{Marshall:2013,Charles:2009ta}.
+The FCC-like detector geometry used in this study is described in~\cite{Chekanov:2016ppq},
 while Monte Carlo event simulation samples are available from the
-HepSim database~\cite{Chekanov:2014fga}.
+HepSim database ~\cite{Chekanov:2014fga}.
 
+In our study, we simulated the $Z'$ bosons with the center-of-mass energies (c.m.) at 5, 10, 20, and 40 TeV. These particles are forced to decay to two light-flavor jets ($q\bar{q}$) as background, $W W$ or $t\bar{t}$ as signal, where $W$($\rightarrow$$q'\bar{q}$) and $t$($ \rightarrow  W^+\>b \rightarrow q'\bar{q} b$) decay hadronically. We use different configurations of calorimeter geometry to see whether the smallest configuration can give the best separation power to distinguish signal from background in different jet substructures. We draw the receiver operating characteristic (ROC) curves to quantify the detector performance and find out the cell size that can give the best separation power.
 
-In our study, we simulated the $Z'$ bosons with the center-of-mass energies (c.m.) at 5, 10, 20, 40 TeV, and they are forced to decay to two light-flavor jets ($q\bar{q}$) as background, $W W$ or $t\bar{t}$ as signal, where $W$($\rightarrow$$q\bar{q}$) and $t$($ \rightarrow  W^+\>b \rightarrow q\bar{q} b$) decay hadronically. We use different configurations of calorimeter geometry to see whether the smallest configuration can give the best separation power to distinguish signal from background in different jet substructures. We draw the receiver operating characteristic (ROC) curves to quantify the detector performance and find out the cell size that can give the best separation power.
+We use soft drop declustering~\cite{Larkoski:2014wba} to study the performance of detector with various detector cell sizes and c.m. energies. Figure~\ref{1}(a) shows the representative ROC curves for three detector cell sizes at 20 TeV with $\beta=0$. For $\beta=0$, the smallest detector cell size, $1~\mathrm{cm}\times1~\mathrm{cm}$, has the best separation power at $\sqrt{s}=$5, 10, and 20 TeV when the signal is $Z' \rightarrow WW$ and at $\sqrt{s}=$10 and 20 TeV when the signal is $Z' \rightarrow$ $t\bar{t}$. For $\beta=2$, the smallest detector cell size does not have improvements in the separation power with respect to those with larger cell sizes.
 
-We use soft drop declustering\cite{Larkoski:2014wba} to study the performance of detector with various detector cell sizes and c.m. energies. Figure\ref{1}(a) shows the representative ROC curves for three detector cell sizes at 20TeV with $\beta=0$. For $\beta=0$, the smallest detector cell size, $1~\mathrm{cm}\times1~\mathrm{cm}$, has the best separation power at $\sqrt{s}=$5, 10, and 20 TeV when the signal is $Z' \rightarrow WW$ and at $\sqrt{s}=$10 and 20 TeV when the signal is $Z' \rightarrow t\bar{\mathrm{t}}$. For $\beta=2$, the smallest detector cell size does not have improvements in the separation power with respect to those with larger cell sizes.
+We also use several jet substructure variables, including $N$-subjettiness~\cite{Thaler:2010tr} and energy correlation function~\cite{Larkoski:2013eya} to study. The signals considered are $Z'\rightarrow WW$ ($\tau_{21}$,$C_2^1$) and $Z' \rightarrow t\bar{t}$ ($\tau_{32}$). Figure~\ref{1}(b) shows the representative ROC curves for three detector cell sizes at 20 TeV with $\tau_{21}$. For all of them, the smallest detector cell size ($1\times1~\mathrm{cm}^2$) does not have the best separation power. It is interesting to note that at very large c.m. energies, the large detector cell sizes have a better separation power than the smallest cell size in most of cases. 
 
-We also use several jet substructure variables, including $N$-subjettiness\cite{Thaler:2010tr} and energy correlation function\cite{Larkoski:2013eya} to study. The signals considered are $Z'\rightarrow WW$ ($\tau_{21}$,$C_2^1$) and $Z' \rightarrow t\bar{t}$ ($\tau_{32}$). Figure\ref{1}(b) shows the representative ROC curves for three detector cell sizes at 20TeV with $\tau_{21}$. For all of them, the smallest detector cell size ($1\times1~\mathrm{cm}^2$) does not have the best separation power. It is interesting to note that at very large c.m. energies, the large detector cell sizes have a better separation power than the smallest cell size in most of cases. 
-
-
-
-In conclusion, hadronic calorimeters that use the cell sizes of $20\times 20$~cm$^2$ ($\Delta \eta \times \Delta \phi = 0.1\times0.1$) 
-are least performat almost for several studied 
+In conclusion, HCALs that use the cell sizes of $20\times 20$~cm$^2$ ($\Delta \eta \times \Delta \phi = 0.1\times0.1$) 
+are least performant almost for several studied 
 substructure variables for jet transverse momenta between 2.5 to 10~TeV. 
 Such cell sizes are close to 
 those used for the ATLAS and CMS detectors at the LHC. 
@@ -114,6 +111,11 @@ that uses $\Delta \eta \times \Delta \phi = 0.022\times0.022$ HCAL cells.
   \emph{Pandora Particle Flow Algorithm},
   arXiv:1308.4537 [physics.ins-det].
 %%%
+%\cite{Charles:2009ta}
+\bibitem{Charles:2009ta} 
+  M.~J.~Charles,
+   \emph{PFA Performance for SiD,}
+  arXiv:0901.4670 [physics.data-an].
 \bibitem{Chekanov:2016ppq} 
   S.~V.~Chekanov, M.~Beydler, A.~V.~Kotwal, L.~Gray, S.~Sen, N.~V.~Tran, S.-S.~Yu and J.~Zuzelski,
   \emph{Initial performance studies of a general-purpose detector for multi-TeV physics at a 100 TeV pp collider},
